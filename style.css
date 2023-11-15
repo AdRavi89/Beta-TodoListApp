@@ -90,7 +90,7 @@ ul li:checked {
 }
 
 ul li.checked::before {
-    background-image: url("image/Checklist.png");
+    background-image: url("image/checklist.png");
 }
 
 ul li span {
